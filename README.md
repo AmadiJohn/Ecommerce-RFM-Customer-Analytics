@@ -111,7 +111,7 @@ Query: [https://github.com/AmadiJohn/Ecommerce-RFM-Customer-Analytics/blob/main/
 - Set up an automated email alert when a customer hits 350 days without a purchase. Catching them before they hit the 380 day *tipping point* is the best way to prevent churn.
 
 ### 3. Customer Segment With The Most Revenue
-Query: [project/revenue_by_customers.sql](project/revenue_by_customers.sql)
+Query: [https://github.com/AmadiJohn/Ecommerce-RFM-Customer-Analytics/blob/main/project/revenue_by_customers.sql](https://github.com/AmadiJohn/Ecommerce-RFM-Customer-Analytics/blob/main/project/revenue_by_customers.sql)
 
 **Visualization**
 
@@ -196,6 +196,7 @@ By implementing RFM analysis within a structured data warehouse environment, the
 
 
 The analytical views created in the *analytics schema* provide reusable, production-ready business insight suitable for dashboard reporting and executive decision-making. 
+
 
 
 
