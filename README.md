@@ -5,7 +5,7 @@ This project presents an end-to-end E-Commerce Data Mining (EDM) Analysis using 
 
 A structued PostgreSQL data warehouse was developed locally to transform the raw transactional data into actionable business insights.
 
-The SQL queries are below here: [Project Folder]([/Project/](https://github.com/AmadiJohn/Ecommerce-RFM-Customer-Analytics/tree/main/project))
+The SQL queries are below here: [Project Folder](https://github.com/AmadiJohn/Ecommerce-RFM-Customer-Analytics/tree/main/project)
 
 # Background and Methodology
 ## Data Warehouse Methodoly
@@ -196,4 +196,5 @@ By implementing RFM analysis within a structured data warehouse environment, the
 
 
 The analytical views created in the *analytics schema* provide reusable, production-ready business insight suitable for dashboard reporting and executive decision-making. 
+
 
