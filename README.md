@@ -147,7 +147,7 @@ Query: [https://github.com/AmadiJohn/Ecommerce-RFM-Customer-Analytics/blob/main/
 - For the *At Risk* customers, identify why they are leaving and send a feedback survey with a discount code to respark the relationship before they go cold.
 
 ### 5. Frequent Purchase But Low Spending Customers
-Query: [project/frequent_low_spenders.sql](project/frequent_low_spenders.sql)
+Query: [https://github.com/AmadiJohn/Ecommerce-RFM-Customer-Analytics/blob/main/project/frequent_low_spenders.sql](https://github.com/AmadiJohn/Ecommerce-RFM-Customer-Analytics/blob/main/project/frequent_low_spenders.sql)
 
 **Visualization**
 
@@ -196,6 +196,7 @@ By implementing RFM analysis within a structured data warehouse environment, the
 
 
 The analytical views created in the *analytics schema* provide reusable, production-ready business insight suitable for dashboard reporting and executive decision-making. 
+
 
 
 
