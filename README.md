@@ -72,7 +72,7 @@ Customers were scored using SQL window functions and mapped into business segmen
 
 # Analysis
 ### 1. Top Spending Customers
-Query: [project/top_spending_customer.sql](project\top_spending_customer.sql)
+Query: [[project/top_spending_customer.sql](https://github.com/AmadiJohn/Ecommerce-RFM-Customer-Analytics/blob/main/project/top_spending_customer.sql)]([project\top_spending_customer.sql](https://github.com/AmadiJohn/Ecommerce-RFM-Customer-Analytics/blob/main/project/top_spending_customer.sql))
 
 • Identifies the top spending customers
 
@@ -193,5 +193,6 @@ By implementing RFM analysis within a structured data warehouse environment, the
 - Understand revenue-driving segment
 - Support targeted marketing decisions
 - Improve customer retention strategies
+
 
 The analytical views created in the *analytics schema* provide reusable, production-ready business insight suitable for dashboard reporting and executive decision-making. 
