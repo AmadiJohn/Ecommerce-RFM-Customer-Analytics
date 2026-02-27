@@ -130,7 +130,7 @@ Query: [https://github.com/AmadiJohn/Ecommerce-RFM-Customer-Analytics/blob/main/
 - Send a "We want you back" offer. It is much cheaper to re-activate a hibernating customer than it is to pay for ads to find a brand new one.
 
 ### 4. Customers Distribution Across Segment
-Query: [project/customer_distribution.sql](project/customer_distribution.sql)
+Query: [https://github.com/AmadiJohn/Ecommerce-RFM-Customer-Analytics/blob/main/project/customer_distribution.sql](https://github.com/AmadiJohn/Ecommerce-RFM-Customer-Analytics/blob/main/project/customer_distribution.sql)
 
 **Visualization**
 
@@ -196,6 +196,7 @@ By implementing RFM analysis within a structured data warehouse environment, the
 
 
 The analytical views created in the *analytics schema* provide reusable, production-ready business insight suitable for dashboard reporting and executive decision-making. 
+
 
 
 
