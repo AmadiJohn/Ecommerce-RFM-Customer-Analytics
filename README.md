@@ -92,7 +92,7 @@ Query: [[project/top_spending_customer.sql](https://github.com/AmadiJohn/Ecommer
 - Data suggests this profiles are ideal for lookalike customers to lower customer acquisition costs.
 
 ### 2. Customers At Risk of Churning
-Query: [project/customers_at_risk.sql](project/customers_at_risk.sql)
+Query: [[project/customers_at_risk.sql](https://github.com/AmadiJohn/Ecommerce-RFM-Customer-Analytics/blob/main/project/customers_at_risk.sql)]([project/customers_at_risk.sql](https://github.com/AmadiJohn/Ecommerce-RFM-Customer-Analytics/blob/main/project/customers_at_risk.sql))
 
 **Visualization**
 
@@ -196,5 +196,6 @@ By implementing RFM analysis within a structured data warehouse environment, the
 
 
 The analytical views created in the *analytics schema* provide reusable, production-ready business insight suitable for dashboard reporting and executive decision-making. 
+
 
 
